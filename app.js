@@ -1,1 +1,1 @@
-console.log('Sistema de Notas v1');
+console.log('Sistema actualizado desde GitHub');
